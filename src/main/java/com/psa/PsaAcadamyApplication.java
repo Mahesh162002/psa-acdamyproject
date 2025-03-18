@@ -9,6 +9,7 @@ public class PsaAcadamyApplication {
 	public static void main(String[] args) {
 		int x=100;
 		double c=19.1;
+		char c='e';
 		SpringApplication.run(PsaAcadamyApplication.class, args);
 	}
 
